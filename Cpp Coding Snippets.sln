@@ -20,6 +20,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Pointers", "Pointers\Pointe
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Auto Type Deducation", "Auto Type Deducation\Auto Type Deducation.vcxproj", "{B67A7145-7A5B-4009-B2C6-029B9DE9A6E9}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Best Practices for Developers", "Best Practices for Developers\Best Practices for Developers.vcxproj", "{079DB9F9-4472-46F6-98AA-87C8467E1B2A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -76,6 +78,14 @@ Global
 		{B67A7145-7A5B-4009-B2C6-029B9DE9A6E9}.Release|x64.Build.0 = Release|x64
 		{B67A7145-7A5B-4009-B2C6-029B9DE9A6E9}.Release|x86.ActiveCfg = Release|Win32
 		{B67A7145-7A5B-4009-B2C6-029B9DE9A6E9}.Release|x86.Build.0 = Release|Win32
+		{079DB9F9-4472-46F6-98AA-87C8467E1B2A}.Debug|x64.ActiveCfg = Debug|x64
+		{079DB9F9-4472-46F6-98AA-87C8467E1B2A}.Debug|x64.Build.0 = Debug|x64
+		{079DB9F9-4472-46F6-98AA-87C8467E1B2A}.Debug|x86.ActiveCfg = Debug|Win32
+		{079DB9F9-4472-46F6-98AA-87C8467E1B2A}.Debug|x86.Build.0 = Debug|Win32
+		{079DB9F9-4472-46F6-98AA-87C8467E1B2A}.Release|x64.ActiveCfg = Release|x64
+		{079DB9F9-4472-46F6-98AA-87C8467E1B2A}.Release|x64.Build.0 = Release|x64
+		{079DB9F9-4472-46F6-98AA-87C8467E1B2A}.Release|x86.ActiveCfg = Release|Win32
+		{079DB9F9-4472-46F6-98AA-87C8467E1B2A}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
